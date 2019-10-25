@@ -1,1 +1,2 @@
-print('Hello python & git')
+print('Hello python')
+print('Hello Git!')
